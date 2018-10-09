@@ -49,4 +49,5 @@ Open a terminal for checking out ROS topic of test_msgs node:
 rostopic echo /test_msgs
 ```
 The output will shown as:
+
 ![](img/话题输出.png) 
