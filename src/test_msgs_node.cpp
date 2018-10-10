@@ -14,6 +14,7 @@ int main(int argc, char** argv){
 
     std::stringstream head_;
     head_ << "Current count: " << count;
+    msgs_.ok.count = count;
     msgs_.count = head_.str();
 
     ROS_INFO("msg: { %s }", msgs_.count.c_str());

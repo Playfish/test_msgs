@@ -12,6 +12,7 @@ add_message_files(
    DIRECTORY msg
    FILES
    Test.msg
+   TestInfo.msg
 )
 
 generate_messages(

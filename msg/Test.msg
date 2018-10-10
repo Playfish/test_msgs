@@ -1,1 +1,2 @@
+TestInfo ok
 string count
