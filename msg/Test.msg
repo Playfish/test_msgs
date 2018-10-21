@@ -1,2 +1,0 @@
-TestInfo ok
-string count
